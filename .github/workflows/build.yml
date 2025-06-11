@@ -1,4 +1,4 @@
-name: Build Obfuscate BPB Panel
+name: Clone BPB Panel
 
 on:
   workflow_dispatch:
